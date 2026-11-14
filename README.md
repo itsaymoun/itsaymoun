@@ -30,13 +30,14 @@
 <table>
   <tr>
     <td width="70%">
-      <b>🤖 Robot Wheel Rotation-Based Positioning</b><br/>
+      <a href="https://github.com/ITzaYman122/robot-wheel-positioning"><b>🤖 Robot Wheel Rotation-Based Positioning</b></a><br/>
       A 2WD robot that estimates its distance, position (x, y) and heading using
       <b>IR slot encoders</b> on the wheels (odometry). Built with an <b>Arduino UNO</b>,
       an <b>L298N</b> motor driver and an <b>I2C LCD</b>, with a full accuracy and calibration study.<br/><br/>
       <img src="https://img.shields.io/badge/status-in%20progress-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
       <img src="https://img.shields.io/badge/EasyEDA-1E88E5?style=flat-square"/>
+      <br/><a href="https://github.com/ITzaYman122/robot-wheel-positioning"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="30%" align="center">⚙️📐🔌</td>
   </tr>
