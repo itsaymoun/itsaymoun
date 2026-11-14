@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ITzaYman122">
+  <a href="https://github.com/itsaymoun">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Mechanical+Engineering+Student+%E2%9A%99%EF%B8%8F;2nd+Year+%40+German+International+University;CAD+%7C+Mechatronics+%7C+Robotics;Building+things+that+move+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ITzaYman122&label=Profile%20views&color=2c5364&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=itsaymoun&label=Profile%20views&color=2c5364&style=flat-square" alt="profile views"/>
   <img src="https://img.shields.io/badge/GIU-Mechanical%20Engineering-d9a520?style=flat-square" alt="GIU"/>
   <img src="https://img.shields.io/badge/Year-2nd-203a43?style=flat-square" alt="2nd year"/>
 </p>
@@ -30,14 +30,14 @@
 <table>
   <tr>
     <td width="70%">
-      <a href="https://github.com/ITzaYman122/robot-wheel-positioning"><b>🤖 Robot Wheel Rotation-Based Positioning</b></a><br/>
+      <a href="https://github.com/itsaymoun/robot-wheel-positioning"><b>🤖 Robot Wheel Rotation-Based Positioning</b></a><br/>
       A 2WD robot that estimates its distance, position (x, y) and heading using
       <b>IR slot encoders</b> on the wheels (odometry). Built with an <b>Arduino UNO</b>,
       an <b>L298N</b> motor driver and an <b>I2C LCD</b>, with a full accuracy and calibration study.<br/><br/>
       <img src="https://img.shields.io/badge/status-in%20progress-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
       <img src="https://img.shields.io/badge/EasyEDA-1E88E5?style=flat-square"/>
-      <br/><a href="https://github.com/ITzaYman122/robot-wheel-positioning"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <br/><a href="https://github.com/itsaymoun/robot-wheel-positioning"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="30%" align="center">⚙️📐🔌</td>
   </tr>
@@ -82,7 +82,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ITzaYman122&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=itsaymoun&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ## 💭 Engineering Quote
