@@ -25,7 +25,7 @@
 - 🌱 Currently learning **sensors & metrology**, **embedded programming** and **Python for engineering**
 - 📂 This GitHub is where I'll upload my university and personal projects
 
-## 🚀 Current Project
+## 🚀 Projects
 
 <table>
   <tr>
@@ -40,6 +40,19 @@
       <br/><a href="https://github.com/itsaymoun/robot-wheel-positioning"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="30%" align="center">⚙️📐🔌</td>
+  </tr>
+  <tr>
+    <td width="70%">
+      <a href="https://github.com/itsaymoun/smart-bike-rental-garage-auto"><b>🚲 Smart Bike Rental App – Database Design</b></a><br/>
+      Database for a smart bike rental app: riders, wallets, stations, bikes, rentals, payments,
+      damage reports and maintenance. Designed as an <b>ERD</b> in draw.io from the product backlog
+      and implemented as a <b>PostgreSQL</b> schema (10 tables, constraints, indexes and seed data).<br/><br/>
+      <img src="https://img.shields.io/badge/status-milestone%202%20done-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white"/>
+      <br/><a href="https://github.com/itsaymoun/smart-bike-rental-garage-auto"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="30%" align="center">🗄️🚲📊</td>
   </tr>
 </table>
 
@@ -61,6 +74,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 **Electronics & Mechatronics**
